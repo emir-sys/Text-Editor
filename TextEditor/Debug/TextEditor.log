@@ -1,0 +1,5 @@
+﻿  TextEditor.cpp
+C:\Users\Cem\source\repos\TextEditor\TextEditor\TextEditor.cpp(180,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cem\source\repos\TextEditor\TextEditor\TextEditor.cpp(240,52): warning C4129: 's': unrecognized character escape sequence
+C:\Users\Cem\source\repos\TextEditor\TextEditor\TextEditor.cpp(250,52): warning C4129: 's': unrecognized character escape sequence
+  TextEditor.vcxproj -> C:\Users\Cem\source\repos\TextEditor\Debug\TextEditor.exe
